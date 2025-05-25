@@ -3,7 +3,7 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
     - name: ZitaoTech
-      url-base: https://github.com/ZitaoTech
+      url-base: https://github.com/logdream
   projects:
     - name: zmk
       remote: ZitaoTech
